@@ -1,0 +1,3 @@
+# Only the settings this project needs. JWT is checked inside the function code.
+[functions.submit-reading]
+verify_jwt = false
